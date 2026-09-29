@@ -1,7 +1,7 @@
 # Copier Template-Extensions
 
 [![ci](https://github.com/copier-org/copier-template-extensions/workflows/ci/badge.svg)](https://github.com/copier-org/copier-template-extensions/actions?query=workflow%3Aci)
-[![documentation](https://img.shields.io/badge/docs-mkdocs-708FCC.svg?style=flat)](https://copier-org.github.io/copier-template-extensions/)
+[![documentation](https://img.shields.io/badge/docs-zensical-FF9100.svg?style=flat)](https://copier-org.github.io/copier-template-extensions/)
 [![pypi version](https://img.shields.io/pypi/v/copier-template-extensions.svg)](https://pypi.org/project/copier-template-extensions/)
 
 Special Jinja2 extension for Copier that allows to load extensions using file paths relative to the template root instead of Python dotted paths.
@@ -217,3 +217,8 @@ to include it in the context, etc.
 >
 > Other key-value pairs can be found in the context
 > that you might find useful (Copier configuration, etc.).
+
+## Sponsors
+
+<!-- sponsors-start -->
+<!-- sponsors-end -->
