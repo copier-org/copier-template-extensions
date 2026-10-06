@@ -5,6 +5,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.3.4](https://github.com/pawamoy/copier-templates-extensions/releases/tag/0.3.4) - 2026-10-06
+
+<small>[Compare with 0.3.3](https://github.com/pawamoy/copier-templates-extensions/compare/0.3.3...0.3.4)</small>
+
+### Build
+
+- Drop support for Python 3.10 ([c147cb7](https://github.com/pawamoy/copier-templates-extensions/commit/c147cb74ad638e71cf6c10ef821ea37af6accb3b) by Timothée Mazzucotelli).
+
 ## [0.3.3](https://github.com/pawamoy/copier-templates-extensions/releases/tag/0.3.3) - 2025-07-15
 
 <small>[Compare with 0.3.2](https://github.com/pawamoy/copier-templates-extensions/compare/0.3.2...0.3.3)</small>
